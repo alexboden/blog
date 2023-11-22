@@ -1,1 +1,1 @@
-blog.alexboden.ca
+[blog](https://blog.alexboden.ca)
